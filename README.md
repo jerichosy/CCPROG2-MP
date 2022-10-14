@@ -1,3 +1,3 @@
 # CCPROG2-MP
 
-Check Canvas submissions
+TODO: Consolidate Canvas submissions, etc.
